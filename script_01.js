@@ -9,7 +9,7 @@
 /*** 01. Funktionalität mit Einzelparametern */
 // --> "Ich bin Max Mütze."
  output(getSentence("Ich","bin","Max","Mütze"));
-// output(getSentence("Ich","bin","Maxine","Mützerich"));
+output(getSentence("Ich","bin","Maxine","Mützerich"));
 
 function getSentence(word1,word2,word3,word4) {
 
